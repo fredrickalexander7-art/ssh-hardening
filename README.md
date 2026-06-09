@@ -9,5 +9,8 @@ Hardend an SSH server on CentOS Stream 9 Linux VM
 - Enabled public key authentication only
 - Restarted sshd service and verified with systemctl
 
+- - Verified SSH connection from Windows PowerShell using key-based authentication
+- Confirmed root login blocked and password authentication disabled
+
 ## Skills practiced 
 Linux * SSh * chmod * sshd_config * systemctl * Security Hardening
